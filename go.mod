@@ -1,4 +1,4 @@
-module equation-server
+module equation-client
 
 go 1.13
 
